@@ -9,3 +9,5 @@ git commit => commit change to local repo
 
 git push => push changes to remote repo
 to use push command, 'git push <remote_name> <branch_name>' or 'git push -u origin main' or just 'git push'
+
+To point our local repository to github => 'git remote add origin 'https://github.com/RichyOgan/onramp-15.git'
